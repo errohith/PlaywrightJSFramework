@@ -1,0 +1,17 @@
+Loading environment variables from: C:\Playwright Workspace\Salesforce Framework\playwright-salesforce-april\data\service.env
+Environment variable Menu: Service
+Environment variable SubMenu: Service
+Environment variable AccountName: Testleaf
+Environment variable AccountNumber: 87645273989
+Environment variable Type: Customer - Direct
+Environment variable Industry: Banking
+Environment variable Rating: Warm
+Loaded environment data: {
+  Menu: 'Service',
+  SubMenu: 'Service',
+  AccountName: 'Testleaf',
+  AccountNumber: '87645273989',
+  Type: 'Customer - Direct',
+  Industry: 'Banking',
+  Rating: 'Warm'
+}
